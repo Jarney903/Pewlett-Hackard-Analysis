@@ -59,4 +59,6 @@ ORDER BY em.emp_no;
 --View Table
 SELECT * FROM mentorship_eligibilty;
 
+SELECT * FROM retirement_titles;
+
 
